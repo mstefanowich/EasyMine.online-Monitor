@@ -42,9 +42,10 @@ Works on Windows ONLY.
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-## Questions
+## Other
 
 Say hi to me on irc.freenode.org #winapi 
+Donations are always welcome: VtP1ea9gWvjGzzA8x4uJD68vNZzbjDGGuq
 
 ## Acknowledgments
 
