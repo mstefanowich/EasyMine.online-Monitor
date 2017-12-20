@@ -16,7 +16,7 @@ I got tired of checking vertcoin.easymine.online so much to check the progress o
 
 ## Getting Started
 
-Download/Clone/??? the main.c file, start it up in VS as a blank C++ project and include wininet.lib under linked options. Which ever OR download the .exe file listed here.
+Download/Clone/??? the main.c file, start it up in VS as a blank C++ project and include wininet.lib under linked options. Which ever OR download the .exe and .bat file listed here.
 
 #### **Prerequisites**
 
@@ -24,8 +24,10 @@ Works on Windows ONLY.
 
 ### **How-To-Use**
 
-    * Start in cmd as C:\Path\To\File\easymineagent.exe VtP1ea9gWvjGzzA8x4uJD68vNZzbjDGGuq VnjFZ64GFGRejFrizkd27JASdst8BYxWoE
-    * Parameters are to be passed as seen above, no commas, slashes, hyphens, etc. Just pass the wallet address.
+    * Open up the .bat file and edit it so the path is the full path to the easymine-mon .exe
+    * Do not remove echo off or cls command (to clear screen) 
+    * Paratmeters are wallets like: VtP1ea9gWvjGzzA8x4uJD68vNZzbjDGGuq VnjFZ64GFGRejFrizkd27JASdst8BYxWoE
+    * Parameters are to be passed as seen above (or in the .bat file), no commas, slashes, hyphens, etc. Just pass the wallet address.
 
 ## Built With
 
