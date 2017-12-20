@@ -9,14 +9,14 @@ I got tired of checking vertcoin.easymine.online so much to check the progress o
 
 12/20/17
 * Fix sloppy JSON parsing
-* Improve overall aesthetics
+* Improve overall aesthetics, doesn't work if you run it straight from CMD, messes up the COORD structure 
 * Convert H to MH or GH
 * Make sure runs on all versions of Windows
 * Include segment to list blocks currently being mined
 
 ## Getting Started
 
-Download/Clone/??? the main.c file, start it up in VS as a blank C++ project and include wininet.lib under linked options. Which ever OR download the .exe and .bat file listed here.
+Download/Clone/??? the main.c file, start it up in VS as a blank C++ project and include wininet.lib under linked options OR download the .exe and .bat file listed here.
 
 #### **Prerequisites**
 
@@ -26,7 +26,7 @@ Works on Windows ONLY.
 
     * Open up the .bat file and edit it so the path is the full path to the easymine-mon .exe
     * Do not remove echo off or cls command (to clear screen) 
-    * Paratmeters are wallets like: VtP1ea9gWvjGzzA8x4uJD68vNZzbjDGGuq VnjFZ64GFGRejFrizkd27JASdst8BYxWoE
+    * Parameters are wallets like: VtP1ea9gWvjGzzA8x4uJD68vNZzbjDGGuq VnjFZ64GFGRejFrizkd27JASdst8BYxWoE
     * Parameters are to be passed as seen above (or in the .bat file), no commas, slashes, hyphens, etc. Just pass the wallet address.
 
 ## Built With
@@ -41,6 +41,10 @@ Works on Windows ONLY.
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+## Questions
+
+Say hi to me on irc.freenode.org #winapi 
 
 ## Acknowledgments
 
