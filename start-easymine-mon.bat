@@ -1,0 +1,3 @@
+@echo off
+cls
+C:\Users\you\Desktop\EasyMineAgent.exe Va18ZPtcfFtTW1bQUkeezvStiEL3WRw3We VakQPcWS5VLCFf1eUTN82Xj8h8By6bzonV Vt15x2HhBzfo1UnhSpgXJaHKFQLxsMi9Tc
