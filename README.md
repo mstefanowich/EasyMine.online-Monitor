@@ -2,6 +2,9 @@
 
 I got tired of checking vertcoin.easymine.online so much to check the progress of my miner(s). So, I spoke with the owner of easymine and decided to make my own little tool to monitor my progress. I also decided to publish it online so others can use it :)
 
+
+EDIT: Due to the constant advancement of EasyMine.online I will no longer be supporting this project. The website is updated too frequently to maintain this individual project. :)
+
 ### **NOTE**
 * Build Version 0.0 is sloppily written and MAY have bugs. If you encounter any bugs please let me know. I will fix them ASAP. This has only been tested on Windows 10.
 
